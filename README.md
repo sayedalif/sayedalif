@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sayedalif
 - 👀 I’m interested in coding, Sci-fi, gaming, bike riding.
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on .
+- 💞️ I’m looking to collaborate on daily basis cause i have lots of free time outside my schdule.
 - 📫 How to reach me sayedalif18@gmail.com
 
 <!---
